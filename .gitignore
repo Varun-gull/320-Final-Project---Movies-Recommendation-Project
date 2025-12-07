@@ -1,0 +1,6 @@
+# Raw / huge data files – keep local, do not push
+data/title.basics.tsv
+data/title.ratings.tsv
+data/ratings.csv
+data/movies.csv
+data/*.tsv.gz
