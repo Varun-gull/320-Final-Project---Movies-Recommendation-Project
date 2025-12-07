@@ -1,0 +1,6 @@
+data/title.basics.tsv
+data/title.ratings.tsv
+data/basics_clean.csv
+data/ratings.csv
+data/ratings_clean.csv
+data/movies.csv
